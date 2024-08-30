@@ -13,7 +13,7 @@
     "d3-array": "3.0.1",
     "d3-scale": "3.3.0",
     "layercake": "4.1.1",
-    "svelte": "3.40.1",
+    "svelte": "4.2.19",
     "svelte2tsx": "0.4.2",
     "tidyjs": "1.0.22",
     "typescript": "4.3.5"
